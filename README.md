@@ -6,4 +6,5 @@
     1. Dependiendo de (Swich)
 3. Ciclos
     1. [Para (for)](ciclos/for/readme.md)
+    2. si (if)
 4. [Clase](clases/readme.md)
